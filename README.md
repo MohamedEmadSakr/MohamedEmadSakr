@@ -51,7 +51,9 @@
 </p>
 
 ---
-
+<p align="center">
 <img align="center" alt="Mohamed Emad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MohamedEmadSakr&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,0e1535&title_color=fff&text_color=fff&icon_color=fff" />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedEmadSakr&&theme=dark&hide_border=true" alt="Mohamed Emad's streak status" /></p>
+</p> 
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedEmadSakr&&theme=dark&hide_border=true" alt="Mohamed Emad's streak status"/>
+</p>
