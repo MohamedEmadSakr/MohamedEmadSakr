@@ -1,25 +1,16 @@
 <h1 align="center">Hi there, I'm Mohamed Emad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<img  align="right" alt="Coder GIF"  height=250 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img  align="right" alt="Coder GIF"  height=300 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 ### I'm a Developer, Student, and Geek!
 - 🏠 Living in Cairo, Egypt
 - 📨 Reachable at mohamedemad6601@gmail.com
-- 💻 Currently working as a Tech-Lead for [RobEn](https://roben.club)'s 
-- 📝 Check out my [online Library](https://drive.google.com/drive/folders/1Cx0w0peYKWUr_3B_wMyeUi2RF0wzpLDK?usp=sharing) for interesting books
+- 💻 Currently working as a Tech-Team Member for [RobEn](https://roben.club)'s 
 - 👥 Currently welcoming collaborations
-- 🔥 Fun fact: I'm also a professional DJ 🎛 !
 
 
 ### Connect with me:
-<p align="left"> <a href="https://twitter.com/karimkohel" target="blank"><img src="https://img.shields.io/twitter/follow/karimkohel?logo=twitter&style=for-the-badge" alt="karimkohel" /></a> </p>
-
-[<img align="left" alt="karimkohel.com" width="120px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
-[<img align="left" alt="karimkohel | Twitter" width="120px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="karimkohel | LinkedIn" width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="karimkohel | Instagram" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-
-<br />
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedemadsakr)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
