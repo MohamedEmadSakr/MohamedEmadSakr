@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mohamed Emad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<img  align="right" alt="Coder GIF"  height=300 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img  align="right" alt="Coder GIF"  height=300 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ### I'm a Developer, Student, and Geek!
 - 🏠 Living in Cairo, Egypt
