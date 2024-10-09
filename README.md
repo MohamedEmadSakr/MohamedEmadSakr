@@ -2,7 +2,7 @@
 
 <img  align="right" alt="Coder GIF"  height=300 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-### I'm a Developer, Student, and Geek!
+### I'm a Developer and Geek!
 - 🏠 Living in Cairo, Egypt
 - 📨 Reachable at mohamedemad6601@gmail.com
 - 💻 Currently working as a Tech-Team Member for [RobEn](https://roben.club)'s 
